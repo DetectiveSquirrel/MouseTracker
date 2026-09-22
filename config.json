@@ -1,0 +1,157 @@
+{
+  "fade": 0.0,
+  "particle_size": 2.2,
+  "window_ratio_w": 16,
+  "thickness": 13.208955223880597,
+  "inertia": 0.05,
+  "head_marker": "crosshair",
+  "use_chroma": true,
+  "window_ratio_h": 9,
+  "outline": 4.095693779904306,
+  "font_size": 16,
+  "profiles": {
+    "Main": {
+      "hue_max": 320.0,
+      "counter_color": [
+        0,
+        0,
+        0
+      ],
+      "hue_span": 260.0,
+      "borderless": false,
+      "cursor_size": 16.61244019138756,
+      "show_perf": false,
+      "capture_fps": 120,
+      "opacity": 1.0,
+      "outline": 4.095693779904306,
+      "cursor_follow_color": true,
+      "hue_min": 132.0,
+      "edge_spring": 0.0,
+      "cursor_angle": 0,
+      "view_mode": "map",
+      "inertia": 0.05,
+      "cursor_follow_heading": false,
+      "line_length": 70,
+      "particle_lifetime": 0.4,
+      "show_clicks": false,
+      "head_marker": "crosshair",
+      "trail_style": "line",
+      "glow": 0.0,
+      "tail_color": [
+        80,
+        80,
+        80
+      ],
+      "outline_color": [
+        0,
+        0,
+        0
+      ],
+      "particle_size": 2.2,
+      "particle_follow_color": true,
+      "head_color": [
+        0,
+        0,
+        0
+      ],
+      "bg_color": [
+        255,
+        255,
+        255
+      ],
+      "tracking_weight": 40,
+      "particle_color": [
+        255,
+        255,
+        255
+      ],
+      "window_ratio_h": 9,
+      "thickness": 6.088785046728972,
+      "fade": 0.0,
+      "particles_enabled": false,
+      "use_chroma": true,
+      "window_ratio_w": 16,
+      "taper": 0.75,
+      "window_ratio": "square",
+      "sensitivity": 1.0,
+      "color_mode": "solid",
+      "line_color": [
+        0,
+        255,
+        0
+      ],
+      "show_perf_overlay": false,
+      "window_size": 416,
+      "particle_amount": 18,
+      "font_size": 16,
+      "obs_mode": false,
+      "always_on_top": false
+    }
+  },
+  "counter_color": [
+    0,
+    0,
+    0
+  ],
+  "tracking_weight": 40.0,
+  "always_on_top": false,
+  "tail_color": [
+    80,
+    80,
+    80
+  ],
+  "obs_mode": false,
+  "cursor_size": 16.61244019138756,
+  "cursor_follow_color": true,
+  "cursor_angle": 0,
+  "capture_fps": 120,
+  "bg_color": [
+    255,
+    255,
+    255
+  ],
+  "outline_color": [
+    0,
+    0,
+    0
+  ],
+  "view_mode": "map",
+  "glow": 0.0,
+  "opacity": 1.0,
+  "window_ratio": "square",
+  "hue_span": 260.0,
+  "edge_spring": 0.0,
+  "particle_amount": 18,
+  "hue_max": 320.0,
+  "particles_enabled": false,
+  "line_color": [
+    0,
+    255,
+    0
+  ],
+  "window_size": 416,
+  "color_mode": "solid",
+  "hue_min": 132.0,
+  "show_clicks": false,
+  "head_color": [
+    0,
+    0,
+    0
+  ],
+  "trail_lifetime": 0.03980099502487562,
+  "sensitivity": 1.0,
+  "particle_follow_color": true,
+  "show_perf": false,
+  "active_profile": "Main",
+  "particle_color": [
+    255,
+    255,
+    255
+  ],
+  "show_perf_overlay": false,
+  "taper": 0.6616915422885572,
+  "line_length": 70,
+  "particle_lifetime": 0.4,
+  "borderless": false,
+  "trail_style": "line"
+}
