@@ -2,6 +2,12 @@
 
 A portable Windows mouse trail for OBS. It does **not** draw a mini map of your desktop. Relative mouse movement is mapped into a window, so the scribble stays on-screen no matter where the real cursor goes.
 
+## Disclaimer
+
+Yes, this is AI-generated code. Nothing available with source had the configuration options I wanted; this does the job. Do what you will with the project.
+
+## Download
+
 Download `MouseTracker.exe` from [Releases](../../releases). No Python required.
 
 ## OBS setup
@@ -74,7 +80,3 @@ tracker/physics.py      virtual cursor and trail points
 tracker/mouse.py        raw mouse input
 tracker/win32.py        overlay, DPI, raw input
 ```
-
-## License
-
-MIT. See [LICENSE](LICENSE).
